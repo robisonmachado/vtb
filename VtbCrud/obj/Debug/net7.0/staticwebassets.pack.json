@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\maui-projects\\VtbCrud\\VtbCrud\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\maui-projects\\VtbCrud\\VtbCrud\\obj\\Debug\\net7.0\\build-gz\\CV6G+5st.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\maui-projects\\VtbCrud\\VtbCrud\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\maui-projects\\VtbCrud\\VtbCrud\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\maui-projects\\VtbCrud\\VtbCrud\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.VtbCrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.VtbCrud.props",
+      "PackagePath": "build\\VtbCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.VtbCrud.props",
+      "PackagePath": "buildMultiTargeting\\VtbCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.VtbCrud.props",
+      "PackagePath": "buildTransitive\\VtbCrud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
